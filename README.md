@@ -10,8 +10,6 @@ Hundreds of new notes and documents
 
 Wide range of perspectives and writing styles
 
-Seamless integration with the base game
-
 Enhances exploration with environmental storytelling
 
 Find their words. Hear their fears. Remember the lost.
