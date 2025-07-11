@@ -6,7 +6,7 @@
     "authors": [ "Schizochad" ],
     "maintainers": [ "Schizochad" ],    
 	"description": "Adds hundreds of immersive notes from survivors, soldiers, scientists, criminals, and conspiracy theorists.",
-    "category": "content",
+    "category": "items",
     "dependencies": [ "bn", "realdarkskies", "DinoMod" ]
   }
 ]
