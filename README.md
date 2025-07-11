@@ -15,3 +15,6 @@ Enhances exploration with environmental storytelling
 Find their words. Hear their fears. Remember the lost.
 
 These are the Voices from the Wasteland.
+
+Requirements:
+This mod is designed to be used with the Really Dark Skies and Dinomod mods. Many notes contain references to Xenoids and Dinosaurs and may not make sense otherwise.
