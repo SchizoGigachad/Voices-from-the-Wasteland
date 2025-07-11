@@ -4,15 +4,17 @@ These notes are written by survivors, military personnel, scientists, criminals,
 
 Whether you're scavenging an abandoned lab or picking through the remains of a ransacked house, the voices left behind will tell stories the dead no longer can.
 
-Features:
+-Features:
 
 Hundreds of new notes and documents
+
 Wide range of perspectives and writing styles
+
 Enhances exploration with environmental storytelling
 
 
-Find their words. Hear their fears. Remember the lost.
-These are the Voices from the Wasteland.
+-Find their words. Hear their fears. Remember the lost.
+ These are the Voices from the Wasteland.
 
-Requirements:
+-Requirements:
 This mod is designed to be used with the Really Dark Skies and Dinomod mods. Many notes contain references to Xenoids and Dinosaurs and may not make sense otherwise.
