@@ -6,14 +6,15 @@ Whether you're scavenging an abandoned lab or picking through the remains of a r
 
 Features:
 
+            *******
+
 Hundreds of new notes and documents
-
 Wide range of perspectives and writing styles
-
 Enhances exploration with environmental storytelling
+            
+             *******
 
 Find their words. Hear their fears. Remember the lost.
-
 These are the Voices from the Wasteland.
 
 Requirements:
