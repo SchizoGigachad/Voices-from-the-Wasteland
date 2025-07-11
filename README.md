@@ -5,6 +5,7 @@ These notes are written by survivors, military personnel, scientists, criminals,
 Whether you're scavenging an abandoned lab or picking through the remains of a ransacked house, the voices left behind will tell stories the dead no longer can.
 
 Features:
+
 Hundreds of new notes and documents
 Wide range of perspectives and writing styles
 Enhances exploration with environmental storytelling
