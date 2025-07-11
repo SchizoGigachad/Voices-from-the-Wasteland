@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "voices_from_the_wasteland",
+    "name": "Voices from the Wasteland",
+    "authors": [ "Schizochad" ],
+    "maintainers": [ "Schizochad" ],    
+	"description": "Adds hundreds of immersive notes from survivors, soldiers, scientists, criminals, and conspiracy theorists.",
+    "category": "content",
+    "dependencies": [ "bn", "realdarkskies", "DinoMod" ]
+  }
+]
